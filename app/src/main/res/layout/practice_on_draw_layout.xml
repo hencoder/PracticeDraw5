@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.hencoder.hencoderpracticedraw5.practice.Practice03OnDrawLayout
+        android:layout_width="160dp"
+        android:layout_height="210dp"
+        android:orientation="vertical">
+
+    </com.hencoder.hencoderpracticedraw5.practice.Practice03OnDrawLayout>
+</FrameLayout>
